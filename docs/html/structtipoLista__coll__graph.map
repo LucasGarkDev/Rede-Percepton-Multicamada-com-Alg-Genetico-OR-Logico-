@@ -1,0 +1,9 @@
+<map id="tipoLista" name="tipoLista">
+<area shape="rect" id="node1" title=" " alt="" coords="157,303,235,329"/>
+<area shape="rect" id="node2" href="$structTLicao.html" title="Estrutura que representa uma lição que a rede deve aprender (A OU B)." alt="" coords="5,184,69,211"/>
+<area shape="rect" id="node3" href="$structtipoRedeNeural.html" title=" " alt="" coords="263,184,385,211"/>
+<area shape="rect" id="node4" href="$structtipoSinapse.html" title=" " alt="" coords="145,95,244,121"/>
+<area shape="rect" id="node5" href="$structtipoCamada.html" title=" " alt="" coords="325,95,427,121"/>
+<area shape="rect" id="node6" href="$structtipoNeuronio.html" title=" " alt="" coords="75,5,181,32"/>
+<area shape="rect" id="node7" href="$structTIndividuo.html" title="Estrutura que representa um indivíduo da população." alt="" coords="409,184,500,211"/>
+</map>
